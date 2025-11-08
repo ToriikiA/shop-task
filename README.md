@@ -90,3 +90,5 @@ docker compose -f docker-compose.yml down -v
 - Документация по Event Ingest: `docs/event-ingest.md`
 - Спецификация pipeline-apid: `docs/pipeline-apid.md`
 - Задание (реализация демонов): `docs/student-assignment.md`
+
+# Test
