@@ -7,5 +7,5 @@ include:
   - docker-compose/shard-splitter.yml
   - docker-compose/shard-workers.yml
   - docker-compose/balance-daemon.yml
-  - docker-compose/cache-service.yml
-  - docker-compose/tests.yml
+ # - docker-compose/cache-service.yml
+ # - docker-compose/tests.yml
